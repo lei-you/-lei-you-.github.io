@@ -51,17 +51,17 @@ To pursue a career at the forefront of AI research and development, focusing on 
 ## Tools
 
 <div>
-    <img src="https://img.shields.io/badge/-Tensorflow-000080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pytorch-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CUDA-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Spark-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tSNE-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Seaborn-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Matplotlib-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenCV-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Keras-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pandas-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tensorflow-010080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pytorch-000280?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-011080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CUDA-000480?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spark-020080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tSNE-003780?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Seaborn-004580?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Matplotlib-003080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenCV-002080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Keras-009080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-005080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
