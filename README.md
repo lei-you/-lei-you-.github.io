@@ -71,3 +71,5 @@ To pursue a career at the forefront of AI research and development, focusing on 
 - Sagittal craniosynostosis classification
 - Telecommunications Company Billing System
 - Human-robot interaction system
+## Google Scholar
+https://scholar.google.com/citations?hl=zh-CN&user=04AtrOwAAAAJ&view_op=list_works&sortby=pubdate
