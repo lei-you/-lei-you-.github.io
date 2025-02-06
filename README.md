@@ -8,7 +8,7 @@ I am an Assistant Professor at the University of Texas Health Science Center at 
 ## Objective
 To pursue a career at the forefront of AI research and development, focusing on applying these powerful technologies to improve human lives and create a more sustainable future.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -26,6 +26,8 @@ To pursue a career at the forefront of AI research and development, focusing on 
     <img src="https://img.shields.io/badge/-Artificial Intelligence-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Deep Learning-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Machine Learning-3776ab?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Large Fundation Model-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Large Language Model-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Deep Learning Models
@@ -38,21 +40,28 @@ To pursue a career at the forefront of AI research and development, focusing on 
     <img src="https://img.shields.io/badge/-SVM-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-
-
-### SIEM
+### Programming Languages
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C#-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
+## Tools
 
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<div>
+    <img src="https://img.shields.io/badge/-Tensorflow-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pytorch-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CUDA-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spark-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tSNE-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Seaborn-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Matplotlib-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenCV-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Keras-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-000080?&style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 ## Projects
