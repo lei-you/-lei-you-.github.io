@@ -3,12 +3,10 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an Assistant Professor at the University of Texas Health Science Center at Houston, where I lead research in medical image analysis tasks. My research focuses on developing and applying advanced machine learning algorithms to address critical challenges in healthcare.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To pursue a career at the forefront of AI research and development, focusing on applying these powerful technologies to improve human lives and create a more sustainable future.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
