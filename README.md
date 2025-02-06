@@ -52,10 +52,10 @@ To pursue a career at the forefront of AI research and development, focusing on 
 
 <div>
     <img src="https://img.shields.io/badge/-Tensorflow-010080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pytorch-000280?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-011080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CUDA-000480?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Spark-020080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pytorch-004280?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-011040?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CUDA-002480?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spark-020780?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-tSNE-003780?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Seaborn-004580?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Matplotlib-003080?&style=for-the-badge&logoColor=white" />
