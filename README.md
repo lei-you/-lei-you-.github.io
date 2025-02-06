@@ -13,14 +13,14 @@ To pursue a career at the forefront of AI research and development, focusing on 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | 3D Brain image analysis          | <a href="https://github.com/lei-you/Alzheimer-Disease-Classification/blob/main/README.md">Alzheimer Disease Classification</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Liver cancer early screen based on image and deep learning</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
