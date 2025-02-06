@@ -9,7 +9,6 @@ I am an Assistant Professor at the University of Texas Health Science Center at 
 To pursue a career at the forefront of AI research and development, focusing on applying these powerful technologies to improve human lives and create a more sustainable future.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
