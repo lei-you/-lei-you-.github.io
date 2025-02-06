@@ -12,7 +12,7 @@ To pursue a career at the forefront of AI research and development, focusing on 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/lei-you/Alzheimer-Disease-Classification/blob/main/README.md">Alzheimer Disease Classification</a>|
+| 3D Brain image analysis          | <a href="https://github.com/lei-you/Alzheimer-Disease-Classification/blob/main/README.md">Alzheimer Disease Classification</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
