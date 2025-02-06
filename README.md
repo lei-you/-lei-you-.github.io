@@ -53,5 +53,9 @@ To pursue a career at the forefront of AI research and development, focusing on 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Alzheimer Disease Classification
+- Heart Imaging-Genetic Discovery
+- Liver cancer early screen based on image and deep learning
+- Sagittal craniosynostosis classification
+- Telecommunications Company Billing System
+- Human-robot interaction system
