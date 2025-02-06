@@ -17,7 +17,7 @@ To pursue a career at the forefront of AI research and development, focusing on 
 | 3D Heart Image Processing        | Heart Imaging-Genetic Discovery|
 | 3D Multiview Learning System    | <a href="https://github.com/lei-you/Sagittal-craniosynostosis-classification/blob/main/README.md">Sagittal craniosynostosis classification</a>|
 | SQL+C# Software Development             | Telecommunications Company Billing System|
-| Hand Guesture Recognition | Human-robot interaction system|
+| Hand Guesture Recognition | <a href="https://github.com/lei-you/Human-robot-interaction-system/blob/main/README.md">  Human-robot interaction system</a>|
 
 ## Skills
 
