@@ -14,7 +14,7 @@ To pursue a career at the forefront of AI research and development, focusing on 
 |-----------------------------------------------|----------------------------|
 | 3D Brain Image Analysis          | <a href="https://github.com/lei-you/Alzheimer-Disease-Classification/blob/main/README.md">Alzheimer Disease Classification</a>|
 | Image Generation and Segmentation | <a href="https://github.com/lei-you/Liver-cancer-early-screen-based-on-image-and-deep-learning/blob/main/README.md">Liver cancer early screen based on image and deep learning</a>|
-| 3D Heart Image Processing        | Heart Imaging-Genetic Discovery|
+| 3D Heart Image Processing        | <a href="https://github.com/lei-you/Heart-Imaging-Genetic-Discovery/blob/main/README.md">Heart Imaging-Genetic Discovery </a>|
 | 3D Multiview Learning System    | <a href="https://github.com/lei-you/Sagittal-craniosynostosis-classification/blob/main/README.md">Sagittal craniosynostosis classification</a>|
 | SQL+C# Software Development             |<a href="https://github.com/lei-you/Telecommunications-Company-Billing-System/blob/main/README.md"> Telecommunications Company Billing System</a>|
 | Hand Guesture Recognition | <a href="https://github.com/lei-you/Human-robot-interaction-system/blob/main/README.md">  Human-robot interaction system</a>|
