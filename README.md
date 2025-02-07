@@ -43,7 +43,7 @@ To pursue a career at the forefront of AI research and development, focusing on 
 ### Programming Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C#-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C sharp-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-006400?&style=for-the-badge&logoColor=white" />
 </div>
