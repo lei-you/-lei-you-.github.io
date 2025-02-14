@@ -1,7 +1,7 @@
 # Hello, I'm Lei You
 [<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/lei-you-b0a0331a6/)
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am an Assistant Professor at the University of Texas Health Science Center at Houston, where I lead research in medical image analysis tasks. My research focuses on developing and applying advanced machine learning algorithms to address critical challenges in healthcare.
 
